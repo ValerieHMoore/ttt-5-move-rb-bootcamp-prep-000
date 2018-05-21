@@ -13,5 +13,4 @@ end
 
 def move(board,input_to_index,user_input)
   puts board[index] = "X"
-  board
 end
