@@ -13,4 +13,5 @@ end
 
 def move(board,input_to_index,user_input)
   
+  display_board
 end
