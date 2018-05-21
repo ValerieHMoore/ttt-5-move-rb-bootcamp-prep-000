@@ -12,6 +12,5 @@ def input_to_index(user_input)
 end
 
 def move(board,input_to_index,user_input = "X")
-  puts board.insert([index],"X")
-  return board
+  board.insert([i],"X")
 end
