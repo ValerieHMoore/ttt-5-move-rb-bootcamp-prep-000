@@ -12,6 +12,6 @@ def input_to_index(user_input)
 end
 
 def move(board,input_to_index,user_input)
-  puts board.at(i)
+  puts board.at(i) 
   display_board
 end
