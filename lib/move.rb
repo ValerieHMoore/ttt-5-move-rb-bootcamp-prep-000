@@ -12,6 +12,6 @@ def input_to_index(user_input)
 end
 
 def move(board,input_to_index," ")
-  puts 
+  puts "X" in board[i]
   display_board
 end
